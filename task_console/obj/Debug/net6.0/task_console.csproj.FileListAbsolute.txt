@@ -1,0 +1,15 @@
+/Users/muminovkamoljon/example 001/task_console/bin/Debug/net6.0/task_console
+/Users/muminovkamoljon/example 001/task_console/bin/Debug/net6.0/task_console.deps.json
+/Users/muminovkamoljon/example 001/task_console/bin/Debug/net6.0/task_console.runtimeconfig.json
+/Users/muminovkamoljon/example 001/task_console/bin/Debug/net6.0/task_console.dll
+/Users/muminovkamoljon/example 001/task_console/bin/Debug/net6.0/task_console.pdb
+/Users/muminovkamoljon/example 001/task_console/obj/Debug/net6.0/task_console.csproj.AssemblyReference.cache
+/Users/muminovkamoljon/example 001/task_console/obj/Debug/net6.0/task_console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muminovkamoljon/example 001/task_console/obj/Debug/net6.0/task_console.AssemblyInfoInputs.cache
+/Users/muminovkamoljon/example 001/task_console/obj/Debug/net6.0/task_console.AssemblyInfo.cs
+/Users/muminovkamoljon/example 001/task_console/obj/Debug/net6.0/task_console.csproj.CoreCompileInputs.cache
+/Users/muminovkamoljon/example 001/task_console/obj/Debug/net6.0/task_console.dll
+/Users/muminovkamoljon/example 001/task_console/obj/Debug/net6.0/refint/task_console.dll
+/Users/muminovkamoljon/example 001/task_console/obj/Debug/net6.0/task_console.pdb
+/Users/muminovkamoljon/example 001/task_console/obj/Debug/net6.0/task_console.genruntimeconfig.cache
+/Users/muminovkamoljon/example 001/task_console/obj/Debug/net6.0/ref/task_console.dll

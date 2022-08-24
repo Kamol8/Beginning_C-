@@ -1,0 +1,15 @@
+/Users/muminovkamoljon/example 001/Example003/bin/Debug/net6.0/Example003
+/Users/muminovkamoljon/example 001/Example003/bin/Debug/net6.0/Example003.deps.json
+/Users/muminovkamoljon/example 001/Example003/bin/Debug/net6.0/Example003.runtimeconfig.json
+/Users/muminovkamoljon/example 001/Example003/bin/Debug/net6.0/Example003.dll
+/Users/muminovkamoljon/example 001/Example003/bin/Debug/net6.0/Example003.pdb
+/Users/muminovkamoljon/example 001/Example003/obj/Debug/net6.0/Example003.csproj.AssemblyReference.cache
+/Users/muminovkamoljon/example 001/Example003/obj/Debug/net6.0/Example003.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muminovkamoljon/example 001/Example003/obj/Debug/net6.0/Example003.AssemblyInfoInputs.cache
+/Users/muminovkamoljon/example 001/Example003/obj/Debug/net6.0/Example003.AssemblyInfo.cs
+/Users/muminovkamoljon/example 001/Example003/obj/Debug/net6.0/Example003.csproj.CoreCompileInputs.cache
+/Users/muminovkamoljon/example 001/Example003/obj/Debug/net6.0/Example003.dll
+/Users/muminovkamoljon/example 001/Example003/obj/Debug/net6.0/refint/Example003.dll
+/Users/muminovkamoljon/example 001/Example003/obj/Debug/net6.0/Example003.pdb
+/Users/muminovkamoljon/example 001/Example003/obj/Debug/net6.0/Example003.genruntimeconfig.cache
+/Users/muminovkamoljon/example 001/Example003/obj/Debug/net6.0/ref/Example003.dll
